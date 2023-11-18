@@ -1,0 +1,14 @@
+M:\repos\ISDT\ISDTApp\bin\Debug\net7.0\ISDTApp.exe
+M:\repos\ISDT\ISDTApp\bin\Debug\net7.0\ISDTApp.deps.json
+M:\repos\ISDT\ISDTApp\bin\Debug\net7.0\ISDTApp.runtimeconfig.json
+M:\repos\ISDT\ISDTApp\bin\Debug\net7.0\ISDTApp.dll
+M:\repos\ISDT\ISDTApp\bin\Debug\net7.0\ISDTApp.pdb
+M:\repos\ISDT\ISDTApp\obj\Debug\net7.0\ISDTApp.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\ISDT\ISDTApp\obj\Debug\net7.0\ISDTApp.AssemblyInfoInputs.cache
+M:\repos\ISDT\ISDTApp\obj\Debug\net7.0\ISDTApp.AssemblyInfo.cs
+M:\repos\ISDT\ISDTApp\obj\Debug\net7.0\ISDTApp.csproj.CoreCompileInputs.cache
+M:\repos\ISDT\ISDTApp\obj\Debug\net7.0\ISDTApp.dll
+M:\repos\ISDT\ISDTApp\obj\Debug\net7.0\refint\ISDTApp.dll
+M:\repos\ISDT\ISDTApp\obj\Debug\net7.0\ISDTApp.pdb
+M:\repos\ISDT\ISDTApp\obj\Debug\net7.0\ISDTApp.genruntimeconfig.cache
+M:\repos\ISDT\ISDTApp\obj\Debug\net7.0\ref\ISDTApp.dll

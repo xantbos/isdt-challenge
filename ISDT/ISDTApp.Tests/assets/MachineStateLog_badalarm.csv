@@ -1,0 +1,9 @@
+state,timestamp,alarm code
+running,2012-03-03T19:46:21Z,
+faulted,2012-03-03T19:47:03Z,3
+running,2012-03-03T19:50:22Z,grand canyon
+faulted,2012-03-03T19:54:11Z,1
+faulted,2012-03-03T19:55:10Z,2
+running,2012-03-03T19:55:12Z,
+faulted,2012-03-03T19:55:13Z,1
+running,2012-03-03T19:57:14Z,

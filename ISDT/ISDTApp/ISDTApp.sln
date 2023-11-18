@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISDTApp", "ISDTApp.csproj", "{CE30DEC8-6195-471E-BCE4-FCA8B20EEC1A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ISDTApp.Tests", "..\ISDTApp.Tests\ISDTApp.Tests.csproj", "{9315E212-DEB7-4112-9C41-D6D1A146E751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE30DEC8-6195-471E-BCE4-FCA8B20EEC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE30DEC8-6195-471E-BCE4-FCA8B20EEC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE30DEC8-6195-471E-BCE4-FCA8B20EEC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE30DEC8-6195-471E-BCE4-FCA8B20EEC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9315E212-DEB7-4112-9C41-D6D1A146E751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9315E212-DEB7-4112-9C41-D6D1A146E751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9315E212-DEB7-4112-9C41-D6D1A146E751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9315E212-DEB7-4112-9C41-D6D1A146E751}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F86A76-7B69-4355-B63B-0AEB0E7F903E}
+	EndGlobalSection
+EndGlobal
